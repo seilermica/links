@@ -2,36 +2,23 @@
   {
     "type": "instagram",
     "title": "Instagram",
-    "url": "https://instagram.lacrypta.com.ar"
+    "url": "https://instagram.com/seilermica?igshid=YmMyMTA2M2Y="
   },
   {
     "type": "discord",
     "title": "Discord",
     "url": "https://discord.lacrypta.com.ar"
   },
-  {
-    "type": "voluntary",
-    "title": "Quiero participar!",
-    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfMM_fDXrBVlxujPy4yhYRuhHWrtPSvoD8QRCKuHzZXgsFFzg/viewform"
-  },
+  
   {
     "type": "github",
     "title": "Github",
-    "url": "https://github.lacrypta.com.ar"
+    "url": "https://github.com/seilermica"
   },
-  {
-    "type": "twitter",
-    "title": "Twitter",
-    "url": "https://twitter.lacrypta.com.ar"
-  },
-  {
-    "type": "url",
-    "title": "Sitio Web",
-    "url": "https://www.lacrypta.com.ar/"
-  },
+
   {
     "type": "whatsapp",
     "title": "WhatsApp",
-    "url": "https://api.whatsapp.com/send/?phone=%2B541131080456&text=Hola+como+estan&type=phone_number&app_absent=0"
+    "url": "https://wa.link/0qb6m3"
   }
 ]
